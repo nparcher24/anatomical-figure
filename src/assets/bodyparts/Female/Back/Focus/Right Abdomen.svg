@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <svg width="235px" height="639px" viewBox="0 0 235 639" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Right Abdomen</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.25" stroke-linejoin="round">
+        <g id="Female/Back/Focus"   fill="#4299E1" stroke="#4299E1" stroke-width="2">
+            <path d="M130.160941,212.803948 C135.542247,245.941101 123.39756,258.753487 123.630768,258.753487 C139.331474,258.753487 155.419733,274.503507 164.246895,286.899398 C160.5556,278.110631 162.625176,247.781499 161.924779,225.177619 C161.924779,218.113164 164.246895,171.200105 163.539334,157.32358 C159.766253,170.239149 134.103546,171.352847 127.613346,168.575837 C132.39737,198.505978 127.385672,195.71432 130.160941,212.803948 Z" id="Right-Abdomen"  ></path>
+        </g>
+    </g>
+</svg>
