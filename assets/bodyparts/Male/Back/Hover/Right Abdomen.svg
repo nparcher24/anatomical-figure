@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <svg width="235px" height="639px" viewBox="0 0 235 639" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Right Abdomen</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.25">
+        <g id="Male/Back/Hover"   fill="#A0AEC0" stroke="#A1AFC2" stroke-width="2">
+            <path d="M128.507258,195.98145 C141.299985,228.982007 122.499267,265.738705 125.304513,278.762682 C136.866104,268.972434 149.425721,268.972434 167.145028,279.424408 C166.667373,270.130913 167.25383,243.247312 168.25571,219.582092 C168.25571,212.517638 168.25571,170.70401 168.25571,157.298985 C160.437311,161.737267 145.020554,174.358349 127.482895,168.763167 C129.048102,173.175332 127.116377,173.356674 128.507258,195.98145 Z" id="Right-Abdomen"  ></path>
+        </g>
+    </g>
+</svg>
