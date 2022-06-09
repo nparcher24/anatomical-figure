@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
- <svg width="235px" height="639px" viewBox="0 0 235 639" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>Right Wrist</title>
+<svg width="235px" height="639px" viewBox="0 0 235 639" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Male/Back/Active/Right Wrist</title>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.25">
-        <g id="Male/Back/Active"   fill="#F56565" stroke="#F56565" stroke-width="2">
+        <g id="Male/Back/Active " fill="#F56565" stroke="#F56565" stroke-width="2">
             <path d="M189.091651,290.642273 C189.091651,296.778952 189.091651,300.440302 189.091651,307.330663 C201.26881,308.516452 210.786586,306.751331 216.928502,302.833902 C215.08003,300.038581 211.380653,296.812306 209.582225,285.929821 C205.873797,288.966256 205.873797,290.827599 189.091651,290.642273 Z" id="Right-Wrist"></path>
         </g>
     </g>

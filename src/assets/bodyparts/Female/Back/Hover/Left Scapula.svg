@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
- <svg width="235px" height="639px" viewBox="0 0 235 639" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>Left Scapula</title>
+<svg width="235px" height="639px" viewBox="0 0 235 639" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Female/Back/Hover/Left Scapula</title>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.25">
-        <g id="Female/Back/Hover"   fill="#A0AEC0" stroke="#A1AFC2" stroke-width="2">
+        <g id="Female/Back/Hover " fill="#A0AEC0" stroke="#A1AFC2" stroke-width="2">
             <path d="M73.8434662,156.409401 C77.6200803,161.095321 77.4903823,167.470533 77.7143874,167.660449 C79.8039323,169.432005 83.0285883,169.67609 91.9244509,168.575837 C103.651307,167.125442 107.717909,157.792809 108.895894,157.792809 C108.895894,150.728354 108.559768,147.667129 108.559768,134.262104 C103.301365,133.11156 73.0058417,124.318591 64.1101095,142.599433 C61.3087872,148.356186 71.5151454,153.520483 73.8434662,156.409401 Z" id="Left-Scapula"></path>
         </g>
     </g>

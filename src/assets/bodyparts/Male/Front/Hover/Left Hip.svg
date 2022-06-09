@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
- <svg width="235px" height="639px" viewBox="0 0 235 639" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>Left Hip</title>
+<svg width="235px" height="639px" viewBox="0 0 235 639" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Male/Front/Hover/Left Hip</title>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.25">
-        <g id="Male/Front/Hover"   fill="#A0AEC0" stroke="#A1AFC2" stroke-width="2">
-            <path d="M153.290291,253.984669 C153.290291,265.849805 146.908365,305.302574 146.322633,311.113003 C149.833365,306.993685 166.409985,283.179497 170.265803,279.993265 C172.799718,275.376771 175.944044,268.03597 174.709687,253.984669 C170.61189,252.415877 155.908933,246.436719 152.475269,242.655291 C151.812912,245.739555 153.290291,251.455181 153.290291,253.984669 Z" id="Left-Hip"  ></path>
+        <g id="Male/Front/Hover " fill="#A0AEC0" stroke="#A1AFC2" stroke-width="2">
+            <path d="M153.290291,253.984669 C153.290291,265.849805 146.908365,305.302574 146.322633,311.113003 C149.833365,306.993685 166.409985,283.179497 170.265803,279.993265 C172.799718,275.376771 175.944044,268.03597 174.709687,253.984669 C170.61189,252.415877 155.908933,246.436719 152.475269,242.655291 C151.812912,245.739555 153.290291,251.455181 153.290291,253.984669 Z" id="Left-Hip" transform="translate(160.654642, 276.884147) scale(-1, 1) translate(-160.654642, -276.884147) "></path>
         </g>
     </g>
 </svg>

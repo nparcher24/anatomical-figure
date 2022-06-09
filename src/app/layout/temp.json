@@ -1,0 +1,206 @@
+{
+  "male": {
+    "front": [
+      {
+        "id": "Left-Hand",
+        "transform": "translate(210.525737, 337.090613) scale(-1, 1) translate(-210.525737, -337.090613) "
+      },
+      {
+        "id": "Left-Forearm",
+        "transform": "translate(193.598102, 246.687820) scale(-1, 1) translate(-193.598102, -246.687820) "
+      },
+      {
+        "id": "Left-Ankle",
+        "transform": "translate(138.727932, 569.825550) scale(-1, 1) translate(-138.727932, -569.825550) "
+      },
+      {
+        "id": "Left-Shoulder",
+        "transform": "translate(180.920435, 136.952340) scale(-1, 1) translate(-180.920435, -136.952340) "
+      },
+      {
+        "id": "Left-Knee",
+        "transform": "translate(143.693309, 443.507861) scale(-1, 1) translate(-143.693309, -443.507861) "
+      },
+      {
+        "id": "Left-Hip",
+        "transform": "translate(160.654642, 276.884147) scale(-1, 1) translate(-160.654642, -276.884147) "
+      },
+      {
+        "id": "Left-Wrist",
+        "transform": "translate(198.627408, 292.738728) scale(-1, 1) translate(-198.627408, -292.738728) "
+      },
+      {
+        "id": "Left-Elbow",
+        "transform": "translate(190.999158, 211.002296) scale(-1, 1) translate(-190.999158, -211.002296) "
+      },
+      {
+        "id": "Left-Foot",
+        "transform": "translate(141.804516, 597.093051) scale(-1, 1) translate(-141.804516, -597.093051) "
+      },
+      {
+        "id": "Left-Arm",
+        "transform": "translate(189.371610, 169.087538) scale(-1, 1) translate(-189.371610, -169.087538) "
+      },
+      {
+        "id": "Left-Leg",
+        "transform": "translate(148.246870, 353.511477) scale(-1, 1) translate(-148.246870, -353.511477) "
+      }
+    ],
+    "back": [
+      {
+        "id": "Right-Shoulder",
+        "transform": "translate(157.812904, 107.717738) scale(-1, 1) translate(-157.812904, -107.717738) "
+      },
+      {
+        "id": "Right-Scapula",
+        "transform": "translate(146.148314, 148.365881) scale(-1, 1) translate(-146.148314, -148.365881) "
+      },
+      {
+        "id": "Right-Glute",
+        "transform": "translate(147.542868, 302.524932) scale(-1, 1) translate(-147.542868, -302.524932) "
+      },
+      {
+        "id": "Right-Forearm",
+        "transform": "translate(191.188926, 258.331704) scale(-1, 1) translate(-191.188926, -258.331704) "
+      },
+      {
+        "id": "Right-Elbow",
+        "transform": "translate(189.091651, 220.917275) scale(-1, 1) translate(-189.091651, -220.917275) "
+      },
+      {
+        "id": "Right-Tricep",
+        "transform": "translate(183.945218, 175.391947) scale(-1, 1) translate(-183.945218, -175.391947) "
+      },
+      {
+        "id": "Right-Abdomen",
+        "transform": "translate(146.635206, 218.361697) scale(-1, 1) translate(-146.635206, -218.361697) "
+      },
+      {
+        "id": "Right-Hand",
+        "transform": "translate(211.912874, 333.861198) scale(-1, 1) translate(-211.912874, -333.861198) "
+      },
+      {
+        "id": "Right-Thigh",
+        "transform": "translate(147.163024, 379.538067) scale(-1, 1) translate(-147.163024, -379.538067) "
+      },
+      {
+        "id": "Left-Calf",
+        "transform": "translate(91.478288, 506.667744) scale(-1, 1) translate(-91.478288, -506.667744) "
+      },
+      {
+        "id": "Left-Heel",
+        "transform": "translate(93.805895, 607.078794) scale(-1, 1) translate(-93.805895, -607.078794) "
+      },
+      {
+        "id": "Left-Ankle",
+        "transform": "translate(99.265165, 583.464830) scale(-1, 1) translate(-99.265165, -583.464830) "
+      }
+    ]
+  },
+  "female": {
+    "front": [
+      {
+        "id": "Left-Hand",
+        "transform": "translate(205.149691, 344.115813) scale(-1, 1) translate(-205.149691, -344.115813) "
+      },
+      {
+        "id": "Left-Forearm",
+        "transform": "translate(181.864205, 260.988544) scale(-1, 1) translate(-181.864205, -260.988544) "
+      },
+      {
+        "id": "Left-Ankle",
+        "transform": "translate(139.100822, 582.967315) scale(-1, 1) translate(-139.100822, -582.967315) "
+      },
+      {
+        "id": "Left-Shoulder",
+        "transform": "translate(171.420945, 141.418463) scale(-1, 1) translate(-171.420945, -141.418463) "
+      },
+      {
+        "id": "Left-Knee",
+        "transform": "translate(143.371985, 456.544048) scale(-1, 1) translate(-143.371985, -456.544048) "
+      },
+      {
+        "id": "Left-Wrist",
+        "transform": "translate(193.209833, 306.647451) scale(-1, 1) translate(-193.209833, -306.647451) "
+      },
+      {
+        "id": "Left-Lower-Leg",
+        "transform": "translate(143.587413, 525.019360) scale(-1, 1) translate(-143.587413, -525.019360) "
+      },
+      {
+        "id": "Left-Elbow",
+        "transform": "translate(176.767762, 220.128570) scale(-1, 1) translate(-176.767762, -220.128570) "
+      },
+      {
+        "id": "Left-Foot",
+        "transform": "translate(148.750253, 602.680256) scale(-1, 1) translate(-148.750253, -602.680256) "
+      },
+      {
+        "id": "Left-Arm",
+        "transform": "translate(174.462631, 179.068235) scale(-1, 1) translate(-174.462631, -179.068235) "
+      },
+      {
+        "id": "Left-Leg",
+        "transform": "translate(149.751705, 365.756213) scale(-1, 1) translate(-149.751705, -365.756213) "
+      },
+      {
+        "id": "Left-Hip",
+        "transform": "translate(161.175904, 292.183487) scale(-1, 1) translate(-161.175904, -292.183487) "
+      }
+    ],
+    "back": [
+      {
+        "id": "Right-Shoulder",
+        "transform": "translate(151.279199, 114.981574) scale(-1, 1) translate(-151.279199, -114.981574) "
+      },
+      {
+        "id": "Right-Scapula",
+        "transform": "translate(147.105748, 149.700959) scale(-1, 1) translate(-147.105748, -149.700959) "
+      },
+      {
+        "id": "Right-Glute",
+        "transform": "translate(147.997364, 297.372979) scale(-1, 1) translate(-147.997364, -297.372979) "
+      },
+      {
+        "id": "Right-Tricep",
+        "transform": "translate(174.396113, 180.949261) scale(-1, 1) translate(-174.396113, -180.949261) "
+      },
+      {
+        "id": "Right-Abdomen",
+        "transform": "translate(143.937171, 222.111489) scale(-1, 1) translate(-143.937171, -222.111489) "
+      },
+      {
+        "id": "Right-Thigh",
+        "transform": "translate(148.842896, 381.399968) scale(-1, 1) translate(-148.842896, -381.399968) "
+      },
+      {
+        "id": "Left-Calf",
+        "transform": "translate(92.803065, 506.555617) scale(-1, 1) translate(-92.803065, -506.555617) "
+      },
+      {
+        "id": "Left-Heel",
+        "transform": "translate(87.488894, 602.879826) scale(-1, 1) translate(-87.488894, -602.879826) "
+      },
+      {
+        "id": "Left-Ankle",
+        "transform": "translate(96.084877, 581.676679) scale(-1, 1) translate(-96.084877, -581.676679) "
+      },
+      {
+        "id": "Right-Forearm",
+        "transform": "translate(185.633335, 266.175961) scale(-1, 1) translate(-185.633335, -266.175961) "
+      },
+      {
+        "id": "Right-Elbow",
+        "transform": "translate(179.657145, 229.155863) scale(-1, 1) translate(-179.657145, -229.155863) "
+      },
+      {
+        "id": "Right-Wrist",
+        "transform": "translate(198.338735, 302.470369) scale(-1, 1) translate(-198.338735, -302.470369) "
+      },
+      {
+        "id": "Right-Hand",
+        "transform": "translate(209.508851, 336.444794) scale(-1, 1) translate(-209.508851, -336.444794) "
+      }
+    ]
+  }
+}

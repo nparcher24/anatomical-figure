@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
- <svg width="235px" height="639px" viewBox="0 0 235 639" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>Left Abdomen</title>
+<svg width="235px" height="639px" viewBox="0 0 235 639" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Female/Back/Active/Left Abdomen</title>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.25" stroke-linejoin="round">
-        <g id="Female/Back/Active"   fill="#F56565" stroke="#F56565" stroke-width="2">
+        <g id="Female/Back/Active " fill="#F56565" stroke="#F56565" stroke-width="2">
             <path d="M75.7944437,211.803948 C81.1757496,244.941101 70.2805781,260.005112 70.5114703,259.900531 C82.3188649,254.552503 109.172837,274.503507 118,286.899398 C114.308705,278.110631 112.873235,246.950318 112.172837,224.346438 C112.172837,217.281983 111.540151,169.913753 109.172837,156.32358 C105.399756,169.239149 84.1136822,171.682928 77.7143874,167.660449 C82.4984112,197.59059 73.0191746,194.71432 75.7944437,211.803948 Z" id="Left-Abdomen"></path>
         </g>
     </g>

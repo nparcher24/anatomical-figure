@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
- <svg width="235px" height="639px" viewBox="0 0 235 639" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>Right Arm</title>
+<svg width="235px" height="639px" viewBox="0 0 235 639" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Female/Front/Hover/Right Arm</title>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.25">
-        <g id="Female/Front/Hover"   fill="#A0AEC0" stroke="#A1AFC2" stroke-width="2">
+        <g id="Female/Front/Hover " fill="#A0AEC0" stroke="#A1AFC2" stroke-width="2">
             <path d="M48.5329787,203.58847 C61.7358338,205.421204 65.925075,209.449024 71.4489727,212.253204 C72.701451,205.959586 75.2737392,203.068082 74.5322483,182.082859 C70.9579929,176.161413 73.5095449,171.010893 73.5488741,170.91522 C80.1770871,154.791297 76.9386105,153.949608 75.8004998,142.520282 C69.931757,147.561186 58.7934012,152.505566 55.0859967,157.164413 C55.7757042,166.568396 49.3920489,197.971496 48.5329787,203.58847 Z" id="Right-Arm"></path>
         </g>
     </g>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
- <svg width="235px" height="639px" viewBox="0 0 235 639" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>Right Ankle</title>
+<svg width="235px" height="639px" viewBox="0 0 235 639" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Female/Back/Hover/Right Ankle</title>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.25">
-        <g id="Female/Back/Hover"   fill="#A0AEC0" stroke="#A1AFC2" stroke-width="2">
+        <g id="Female/Back/Hover " fill="#A0AEC0" stroke="#A1AFC2" stroke-width="2">
             <path d="M129.390645,571.467035 C136.007019,570.78206 141.57349,570.78206 148.336117,571.68005 C146.580565,583.276041 148.336117,590.383549 148.336117,591.503876 C142.090029,591.03144 133.531586,592.376123 128.181908,592.376123 C126.6717,585.696168 128.597008,575.325882 129.390645,571.467035 Z" id="Right-Ankle"></path>
         </g>
     </g>

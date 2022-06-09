@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
- <svg width="235px" height="639px" viewBox="0 0 235 639" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>Right Forearm</title>
+<svg width="235px" height="639px" viewBox="0 0 235 639" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Male/Back/Active/Right Forearm</title>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.25">
-        <g id="Male/Back/Active"   fill="#F56565" stroke="#F56565" stroke-width="2">
-            <path d="M172.795626,285.929821 C177.096674,291.008572 186.225109,290.978507 193.286201,290.356521 C192.761311,283.380298 211.241251,243.353694 209.461392,232.741257 C192.446626,236.710123 179.618958,228.2108 175.31791,226.021136 C174.434985,233.962028 175.758602,267.291653 172.795626,285.929821 Z" id="Right-Forearm"  ></path>
+        <g id="Male/Back/Active " fill="#F56565" stroke="#F56565" stroke-width="2">
+            <path d="M172.795626,285.929821 C177.096674,291.008572 186.225109,290.978507 193.286201,290.356521 C192.761311,283.380298 211.241251,243.353694 209.461392,232.741257 C192.446626,236.710123 179.618958,228.2108 175.31791,226.021136 C174.434985,233.962028 175.758602,267.291653 172.795626,285.929821 Z" id="Right-Forearm" transform="translate(191.188926, 258.331704) scale(-1, 1) translate(-191.188926, -258.331704) "></path>
         </g>
     </g>
 </svg>

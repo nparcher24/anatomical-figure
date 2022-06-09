@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
- <svg width="235px" height="639px" viewBox="0 0 235 639" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>Right Heel</title>
+<svg width="235px" height="639px" viewBox="0 0 235 639" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Female/Back/Active/Right Heel</title>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.25">
-        <g id="Female/Back/Active"   fill="#F56565" stroke="#F56565" stroke-width="2">
+        <g id="Female/Back/Active " fill="#F56565" stroke="#F56565" stroke-width="2">
             <path d="M128.198679,592.376123 C132.097939,592.376123 142.913193,591.503876 148.336117,591.503876 C149.944411,602.879826 157.144776,600.827066 157.327009,605.321184 C157.641561,613.078451 151.900804,611.920685 147.636993,612.730059 C142.923931,613.624711 128.378877,618.246164 127.138534,610.445841 C125.745157,601.683113 128.982918,596.639618 128.198679,592.376123 Z" id="Right-Heel"></path>
         </g>
     </g>

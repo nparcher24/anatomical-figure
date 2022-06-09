@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
- <svg width="235px" height="639px" viewBox="0 0 235 639" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>Spine</title>
+<svg width="235px" height="639px" viewBox="0 0 235 639" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Male/Back/Hover/Spine</title>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.25">
-        <g id="Male/Back/Hover"   fill="#A0AEC0" stroke="#A1AFC2" stroke-width="2">
+        <g id="Male/Back/Hover " fill="#A0AEC0" stroke="#A1AFC2" stroke-width="2">
             <path d="M107.29283,234.545211 C107.29283,239.698361 109.598415,278.217001 116.200184,281.013655 C119.678243,291.617123 119.678243,291.617123 122.540073,281.013655 C128.112283,278.763843 125.52636,239.369198 125.52636,235.100346 C124.85136,225.811453 125.014701,214.615012 125.014701,211.002296 C124.11078,211.002296 125.014701,114.116154 119.492047,87.0520544 C117.5,88.2430068 111.615565,88.2430068 106.501238,88.2430068 C105.673338,123.992648 107.235503,211.002296 106.501238,211.002296 C106.501238,216.969047 107.29283,225.835877 107.29283,234.545211 Z" id="Spine"></path>
         </g>
     </g>

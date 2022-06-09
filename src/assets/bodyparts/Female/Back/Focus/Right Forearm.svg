@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
- <svg width="235px" height="639px" viewBox="0 0 235 639" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>Right Forearm</title>
+<svg width="235px" height="639px" viewBox="0 0 235 639" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Female/Back/Focus/Right Forearm</title>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.25">
-        <g id="Female/Back/Focus"   fill="#4299E1" stroke="#4299E1" stroke-width="2">
-            <path d="M177.223175,234.609078 C172.292387,253.057304 174.567022,275.632296 169.278294,293.123127 C173.616736,294.902616 178.710219,297.742844 183.577499,297.742844 C186.567695,286.899398 201.988375,257.175208 201.988375,241.706525 C196.086386,242.089957 184.753558,242.706525 177.223175,234.609078 Z" id="Right-Forearm"  ></path>
+        <g id="Female/Back/Focus " fill="#4299E1" stroke="#4299E1" stroke-width="2">
+            <path d="M177.223175,234.609078 C172.292387,253.057304 174.567022,275.632296 169.278294,293.123127 C173.616736,294.902616 178.710219,297.742844 183.577499,297.742844 C186.567695,286.899398 201.988375,257.175208 201.988375,241.706525 C196.086386,242.089957 184.753558,242.706525 177.223175,234.609078 Z" id="Right-Forearm" transform="translate(185.633335, 266.175961) scale(-1, 1) translate(-185.633335, -266.175961) "></path>
         </g>
     </g>
 </svg>

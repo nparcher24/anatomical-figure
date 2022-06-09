@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
- <svg width="235px" height="639px" viewBox="0 0 235 639" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>Right Elbow</title>
+<svg width="235px" height="639px" viewBox="0 0 235 639" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Female/Front/Focus/Right Elbow</title>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.25">
-        <g id="Female/Front/Focus"   fill="#4299E1" stroke="#4299E1" stroke-width="2">
+        <g id="Female/Front/Focus " fill="#4299E1" stroke="#4299E1" stroke-width="2">
             <path d="M67.8060628,232.794024 C59.7385817,234.053382 49.88122,231.007952 43.5031176,224.775919 C44.56792,219.980067 48.1667442,208.149509 48.5329787,203.58847 C59.724429,206.059421 63.0657176,207.179073 71.4489727,212.253204 C69.6777352,217.295717 69.2265677,224.533925 67.8060628,232.794024 Z" id="Right-Elbow"></path>
         </g>
     </g>

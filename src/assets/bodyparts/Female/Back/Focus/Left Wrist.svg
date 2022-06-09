@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
- <svg width="235px" height="639px" viewBox="0 0 235 639" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>Left Wrist</title>
+<svg width="235px" height="639px" viewBox="0 0 235 639" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Female/Back/Focus/Left Wrist</title>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.25">
-        <g id="Female/Back/Focus"   fill="#4299E1" stroke="#4299E1" stroke-width="2">
+        <g id="Female/Back/Focus " fill="#4299E1" stroke="#4299E1" stroke-width="2">
             <path d="M37.1140701,298.998379 C35.1849398,304.486209 35.8227109,305.968681 30.832917,312.376405 C44.1661962,312.376405 49.5130789,316.57715 49.5130789,316.57715 C49.5130789,316.57715 50.8363134,307.216588 51.9965841,302.470369 C45.2180524,301.539727 43.47714,301.150178 37.1140701,298.998379 Z" id="Left-Wrist"></path>
         </g>
     </g>

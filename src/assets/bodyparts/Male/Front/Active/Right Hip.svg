@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
- <svg width="235px" height="639px" viewBox="0 0 235 639" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>Right Hip</title>
+<svg width="235px" height="639px" viewBox="0 0 235 639" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Male/Front/Active/Right Hip</title>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.25">
-        <g id="Male/Front/Active"   fill="#F56565" stroke="#F56565" stroke-width="2">
+        <g id="Male/Front/Active " fill="#F56565" stroke="#F56565" stroke-width="2">
             <path d="M70.4681284,254.064498 C67.072501,262.810983 60.2937638,308.222899 59.7080316,314.033328 C63.2187645,309.91401 78.1433317,287.616213 87.0434796,277.993265 C89.0689395,273.77952 92.3756343,266.383261 91.1412771,252.33196 C87.0434796,250.763168 75.5589503,245.938649 72.1252859,242.157221 C71.3901307,245.273862 71.4568191,251.51782 70.4681284,254.064498 Z" id="Right-Hip"></path>
         </g>
     </g>

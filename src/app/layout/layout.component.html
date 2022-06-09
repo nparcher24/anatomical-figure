@@ -1,22 +1,59 @@
-<div class="flex">
-  <div
-    class="max-w-96 h-full flex flex-col items-center bg-white border shadow-lg md:rounded-lg p-4"
-  >
-    <div class="flex justify-end w-full">
+<div class="h-screen flex flex-col justify-center align-middle items-center">
+  <div class="h-full w-full flex flex-col items-center bg-white p-4 max-w-md">
+    <div class="flex justify-between w-full">
+      <div
+        [ngClass]="[hoverPart.length > 0 ? 'px-2 py-1  font-bold text-xs' : '']"
+      >
+        {{ hoverPart }}
+      </div>
       <button
-        (click)="front = !front; updateImages()"
-        class="bg-gray-100 px-3 py-1 text-sm text-gray-600 font-bold rounded-md border shadow-sm hover:bg-gray-200 hover:shadow-inner transition duration-200"
+        (click)="random(); front = !front; updateImages()"
+        class="bg-gray-100 px-3 py-2 text-sm text-gray-600 font-bold rounded-md border shadow-sm hover:bg-gray-200 hover:shadow-inner transition duration-200"
       >
         {{ front ? "Back" : "Front" }}
       </button>
     </div>
-    <div class="flex h-full w-full">
-      <img [src]="backgroundImage" [alt]="backgroundAltImage" class="" />
+    <div class="flex-1 h-24 w-full justify-center relative">
+      <img
+        [src]="backgroundImage"
+        [alt]="backgroundAltImage"
+        style="display: block; width: 100%; height: 100%; object-fit: contain"
+      />
+
+      <svg
+        class="absolute inset-0 h-full w-full transition duration-200"
+        viewBox="0 0 235 639"
+        version="1.1"
+        xmlns="http://www.w3.org/2000/svg"
+        xmlns:xlink="http://www.w3.org/1999/xlink"
+      >
+        <g stroke-width="1" fill-rule="evenodd" fill-opacity="0.25">
+          <path
+            *ngFor="let part of activeParts"
+            stroke-width="2"
+            [class.opacity-0]="!isClicked(part.id)"
+            [ngClass]="[
+              isClicked(part.id)
+                ? 'opacity-100 stroke-red-500 fill-red-500 shadow-md md:hover:opacity-100 md:hover:stroke-red-300 md:hover:fill-red-300'
+                : 'md:hover:opacity-100 md:hover:stroke-gray-400 md:hover:fill-gray-400',
+              'transition duration-200 '
+            ]"
+            (mouseenter)="hoverPart = part.id"
+            (mouseleave)="hoverPart = ''"
+            (click)="clicked(part.id)"
+            [id]="part.id"
+            [attr.d]="part.path"
+            [attr.transform]="part.transform"
+          >
+            {{ part.id }}
+          </path>
+        </g>
+      </svg>
     </div>
     <span class="relative z-0 inline-flex shadow-sm rounded-md">
       <button
         type="button"
-        (click)="setMale(true)"
+        (click)="male = true; updateImages()"
         [ngClass]="[
           male ? 'bg-gray-200 shadow-inner' : '',
           'transition duration-200 relative inline-flex items-center px-4 py-2 rounded-l-md border border-gray-300 bg-white text-sm font-medium text-gray-700 hover:bg-gray-50 '
@@ -41,7 +78,7 @@
           !male ? 'bg-gray-200 shadow-inner' : '',
           'transition duration-200 -ml-px relative inline-flex items-center px-3 py-2 rounded-r-md border border-gray-300 bg-white text-sm font-medium text-gray-700 hover:bg-gray-50 '
         ]"
-        (click)="setMale(false)"
+        (click)="male = false; updateImages()"
       >
         <svg
           class="-ml-1 mr-2 h-5 w-5 text-gray-400"

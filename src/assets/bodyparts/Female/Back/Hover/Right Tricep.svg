@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
- <svg width="235px" height="639px" viewBox="0 0 235 639" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>Right Tricep</title>
+<svg width="235px" height="639px" viewBox="0 0 235 639" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Female/Back/Hover/Right Tricep</title>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.25">
-        <g id="Female/Back/Hover"   fill="#A0AEC0" stroke="#A1AFC2" stroke-width="2">
-            <path d="M166.16246,179.163409 C165.099313,184.41425 159.73149,214.103695 159.404079,216.221768 C163.188365,219.517072 174.625567,220.981141 183.52143,219.880888 C184.786455,205.59243 191.899795,191.797836 188.455878,169.239149 C191.027063,148.243007 178.924491,155.087817 177.797362,141.655984 C174.755204,144.599037 173.953527,145.778435 167.825554,145.378502 C167.825554,154.089407 168.473082,167.751337 166.16246,179.163409 Z" id="Right-Tricep"  ></path>
+        <g id="Female/Back/Hover " fill="#A0AEC0" stroke="#A1AFC2" stroke-width="2">
+            <path d="M166.16246,179.163409 C165.099313,184.41425 159.73149,214.103695 159.404079,216.221768 C163.188365,219.517072 174.625567,220.981141 183.52143,219.880888 C184.786455,205.59243 191.899795,191.797836 188.455878,169.239149 C191.027063,148.243007 178.924491,155.087817 177.797362,141.655984 C174.755204,144.599037 173.953527,145.778435 167.825554,145.378502 C167.825554,154.089407 168.473082,167.751337 166.16246,179.163409 Z" id="Right-Tricep" transform="translate(174.396113, 180.949261) scale(-1, 1) translate(-174.396113, -180.949261) "></path>
         </g>
     </g>
 </svg>
